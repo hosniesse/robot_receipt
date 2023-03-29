@@ -1,0 +1,9 @@
+{
+    "Order": {
+        "screenshot": ".images\\order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    }
+}
